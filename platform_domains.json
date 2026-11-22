@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "platforms": {
+    "TikTok": [
+      "tiktok.com"
+    ],
+    "Facebook": [
+      "facebook.com",
+      "fb.watch",
+      "fb.me"
+    ],
+    "Instagram": [
+      "instagram.com"
+    ],
+    "X": [
+      "x.com",
+      "twitter.com",
+      "t.co"
+    ]
+  }
+}
